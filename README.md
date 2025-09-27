@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/NexusLabs)](https://x.com/NexusLabs)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da.svg?logo=discord&logoColor=white)](https://discord.com/invite/nexus-xyz)
 
-# Nexus CLI
+## Nexus CLI
 
 A high-performance command-line interface for contributing proofs to the Nexus network.
 
